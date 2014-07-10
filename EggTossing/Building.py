@@ -6,8 +6,8 @@ Created on 22 jun. 2014
 
 class Building(object):
     '''
-    The problem definition: set up an N-story building and define
-    T, the floor from which the egg will break.
+    The problem definition: set up an N-story building and 
+    define T, the floor from which the egg will break.
     '''
 
     def __init__(self, N, T):
